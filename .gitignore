@@ -1,0 +1,17 @@
+# ignore any docx
+*.docx
+
+# ignore all zip
+*.zip
+
+# ignore all ini
+*.ini
+
+# ignore text book
+Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf
+
+# ignore finals directory
+finals/
+
+# ignore midterm
+midterm/
